@@ -1,3 +1,6 @@
+---
+published: false
+---
 ## Decisions for 2k17
 
 I have outrageous number of passions and it is hard to find focus what is important deal of time. To clear out mind here I share publicly list of important subjects -
@@ -5,7 +8,7 @@ I have outrageous number of passions and it is hard to find focus what is import
 ### OpenSource
 It is a big deal, atleast for me. Many years and different technologies, I never concentrated fully on any project maybe because I got involved with something more important. But it's time to hit opensource, so I fould try to fit in this list : https://hackernoon.com/top-6-open-source-projects-in-2017-db34b9d034a2
 
-1. [Tensorflow](!https://www.tensorflow.org/)
+1. [!Tensorflow](https://www.tensorflow.org/)
 2. [HyperLedger](!https://www.hyperledger.org/)
 3. [React Native](!https://facebook.github.io/react-native/showcase.html)
 4. [Kubernetes](!http://kubernetes.io/)
